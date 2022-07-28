@@ -1,1 +1,14 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapercave.com%2Fwp%2FvEY8nwT.jpg&f=1&nofb=1);
+}
+h1 {
+  color: greenyellow;
+}
+h2 {
+  color: greenyellow;
+}
+.btn {
+  color: greenyellow;
+  background-color: darkred;
+}
